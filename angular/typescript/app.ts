@@ -1,5 +1,5 @@
-let mensagem = "Seja bem vindo!!";
-let temporadasFriends = 10;
-let estudandoAngular = true;
-let listaDeFrutas = ['uva', 'Banana', 'Abacaxi'];
-let notasDasProvas = [7.5, 8, 9]; 
+let mensagem: string = "Seja bem vindo!!";
+let temporadasFriends: number = 10;
+let estudandoAngular: boolean = true;
+let listaDeFrutas: string[] = ['uva', 'Banana', 'Abacaxi'];
+let notasDasProvas: number[] = [7.5, 8, 9]; 
